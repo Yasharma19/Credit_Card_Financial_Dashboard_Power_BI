@@ -32,6 +32,8 @@ and analyze credit card operations effectively.
 
 •	Overall Delinquent rate is 6.06%
 
+
+
 **->** Developed an interactive dashboard using transaction and customer data from a SQL Database, to provide real-time insights.
 
 **->** Streamlined data processing and analysis to monitor key performance metrics and trends.
